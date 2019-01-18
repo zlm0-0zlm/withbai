@@ -13,6 +13,5 @@ public class User {
     private String phone;
     private String sex;
     private String job;
-    private Long oid;
 
 }
