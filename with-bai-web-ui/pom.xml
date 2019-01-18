@@ -17,15 +17,15 @@
     <description></description>
     <dependencies>
         <dependency>
-            <groupId>com.student</groupId>
-            <artifactId>student-attentdance-commons</artifactId>
+            <groupId>com.finance</groupId>
+            <artifactId>with-bai-commons</artifactId>
             <version>${project.parent.version}</version>
         </dependency>
 
 
         <dependency>
-            <groupId>com.student</groupId>
-            <artifactId>student-attentdance-domain</artifactId>
+            <groupId>com.finance</groupId>
+            <artifactId>with-bai-domain</artifactId>
             <version>${project.parent.version}</version>
         </dependency>
 
